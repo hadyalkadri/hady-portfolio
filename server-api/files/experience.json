@@ -1,0 +1,24 @@
+  [
+      {
+        "id": 1,
+        "avatar": "images/expImages/letsgrowmore.jpg",
+        "company": "LetsGrowMore",
+        "task": "trained as a web developer",
+        "description": "during my time at <b>LetsGrowMore</b> as an intern,<br/>I have developed basics skills in HTML, CSS, and vanilla Javascript<br/>I was introduced to Bootsrap and React."
+      },
+      {
+        "id": 2,
+        "avatar": "images/expImages/appipe.jpeg",
+        "company": "APPIPE For Innovation",
+        "task": "Interned as a product management intern",
+        "description": "I participated as a product management intern in <b>APPIPE</b><br/>learning platform, I was responsible for monitoring students' and <br/> tutors' performance reporting directly to management <br/> to evaluate the efficacy of methods used."
+      },
+      {
+        "id": 3,
+        "avatar": "images/expImages/avh.png",
+        "company": "Anchor Ventures Holdings",
+        "task": "interned as a front-end developer",
+        "description": "I have had the honour to intern at <b>Anchor ventures holding</b>,<br/>where I worked on several web development projects using React<br/>I have  learnt a great deal from their diverse and professional team."
+      }
+      
+    ]
